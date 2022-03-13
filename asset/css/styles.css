@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "packcv";
+  src:url("../fonts/packcv.eot");
+  src:url("../fonts/packcv.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/packcv.woff") format("woff"),
+    url("../fonts/packcv.ttf") format("truetype"),
+    url("../fonts/packcv.svg#packcv") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "packcv" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "packcv" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-terminal:before {
+  content: "\62";
+  font-size: 8vw;
+}
+.icon-simphony:before {
+  content: "\63";
+  font-size: 8vw;
+}
+
+.icon-csharp:before {
+  color: RGB(155, 79, 150);
+  content: "\61";
+  font-size: 8vw;
+}
+.icon-javascript:before {
+  color: RGB(240, 219, 79);
+  content: "\65";
+  font-size: 8vw;
+}
+.icon-react:before {
+  color: RGB(0, 169, 217);
+  content: "\68";
+  font-size: 8vw;
+}
+.icon-html5:before {
+  color: RGB(241, 101, 41);
+  content: "\6a";
+  font-size: 8vw;
+}
+.icon-css3:before {
+  color: RGB(33, 150, 243);
+  content: "\6b";
+  font-size: 8vw;
+}
+.icon-mysql:before {
+  color: RGB(0, 92, 132);
+  content: "\62";
+  font-size: 8vw;
+}
+.icon-nodejs:before {
+  color: RGB(114, 174, 64);
+  content: "\66";
+  font-size: 8vw;
+}
+.icon-php:before {
+  color: RGB(92, 122, 173);
+  content: "\69";
+  font-size: 8vw;
+}
+.icon-bootstrap:before {
+  color: RGB(82, 58, 118);
+  content: "\6c";
+  font-size: 8vw;
+} */ */
+
+
+
+/* .icon-vscode:before {
+  content: "\61";
+}
+.icon-terminal:before {
+  content: "\62";
+}
+.icon-simphony:before {
+  content: "\63";
+}
+.icon-react:before {
+  content: "\64";
+}
+.icon-bootstrap:before {
+  content: "\65";
+}
+.icon-csharp:before {
+  content: "\66";
+}
+.icon-css3:before {
+  content: "\67";
+}
+.icon-git:before {
+  content: "\68";
+}
+.icon-html5:before {
+  content: "\69";
+}
+.icon-illustrator:before {
+  content: "\6a";
+}
+.icon-indesign:before {
+  content: "\6b";
+}
+.icon-javascript:before {
+  content: "\6c";
+}
+.icon-mysql:before {
+  content: "\6d";
+}
+.icon-nodejs:before {
+  content: "\6e";
+}
+.icon-photoshop:before {
+  content: "\6f";
+}
+.icon-php:before {
+  content: "\70";
+} */
