@@ -1,18 +1,14 @@
-
-
 body {
-  /* margin-left: 10%;
-  margin-right: 10%; */
-  background-color: grey;
-
-  
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: grey;  
 }
-.a {
+/* .a {
   color: black;
 }
 .a:hover {
   color: black;
-}
+} */
 
 .titre {
   text-align: center;
@@ -23,16 +19,12 @@ body {
   font-size: 2vw;
   margin-top: 2px!important;
 }
-/* .card {
-  text-align: center;
+/* div {
   background-color: var(--couleur-principale);
 } */
-div {
-  background-color: var(--couleur-principale);
-}
-h1 {
+/* h1 {
   background-color: var(--couleur-principale)!important;
-}
+} */
 h6{
   font-size: 2vw!important;
 }
@@ -149,8 +141,8 @@ h6{
 
 @media print {
   body{
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   #test1{
     margin: 0px;

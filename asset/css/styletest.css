@@ -41,62 +41,63 @@
 .icon-vscode:before {
   color: RGB(29,148,228);
   content: "\61";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-terminal:before {
   content: "\62";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-simphony:before {
   content: "\63";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-react:before {
   color: RGB(0, 169, 217);
   content: "\64";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-bootstrap:before {
   color: RGB(82, 58, 118);
   content: "\65";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-csharp:before {
   color: RGB(155, 79, 150);
   content: "\66";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-css3:before {
   color: RGB(33, 150, 243);
   content: "\67";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-git:before {
+  color: RGB(232,78,49);
   content: "\68";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-html5:before {
   color: RGB(241, 101, 41);
   content: "\69";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-javascript:before {
   color: RGB(240, 219, 79);
   content: "\6c";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-mysql:before {
   color: RGB(0, 92, 132);
   content: "\6d";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-nodejs:before {
   color: RGB(114, 174, 64);
   content: "\6e";
-  font-size: 8vw;
+  font-size: 6vw;
 }
 .icon-php:before {
   color: RGB(92, 122, 173);
   content: "\70";
-  font-size: 8vw;
+  font-size: 6vw;
 }
