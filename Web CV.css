@@ -1,7 +1,7 @@
 body {
   margin-left: 10%;
   margin-right: 10%;
-  background-color: grey;  
+  background-color: grey;
 }
 /* .a {
   color: black;
@@ -15,9 +15,9 @@ body {
   background-color: var(--couleur-principale);
   font-size: 1.25vw;
 }
-.title-space{
+.title-space {
   font-size: 2vw;
-  margin-top: 2px!important;
+  margin-top: 2px !important;
 }
 /* div {
   background-color: var(--couleur-principale);
@@ -25,10 +25,9 @@ body {
 /* h1 {
   background-color: var(--couleur-principale)!important;
 } */
-h6{
-  font-size: 2vw!important;
+h6 {
+  font-size: 2vw !important;
 }
-
 
 .separationWhite {
   background-color: beige;
@@ -70,7 +69,6 @@ h6{
 #couleurBlanc {
   color: #fffefd !important;
   padding-bottom: 10px !important;
-  
 }
 #whrite {
   background-color: #fffefd !important;
@@ -91,73 +89,65 @@ h6{
   margin-top: 20px !important;
 }
 
-
-
-
 #myButton {
-	box-shadow: 3px 4px 0px 0px #156783;
-	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
-	background-color:#ededed;
-	border-radius:15px;
-	border:1px solid #d6bcd6;
-	display:inline-block;
-	cursor:pointer;
-	color:#3a8a9e;
-	font-family:Arial;
-	font-size:17px;
-	padding:7px 25px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #e1e2ed;
- 
+  box-shadow: 3px 4px 0px 0px #156783;
+  background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+  background-color: #ededed;
+  border-radius: 15px;
+  border: 1px solid #d6bcd6;
+  display: inline-block;
+  cursor: pointer;
+  color: #3a8a9e;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 7px 25px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #e1e2ed;
 }
 
 #impression {
-	box-shadow: 3px 4px 0px 0px #899599;
-	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
-	background-color:#ededed;
-	border-radius:15px;
-	border:1px solid #d6bcd6;
-	display:inline-block;
-	cursor:pointer;
-	color:#3a8a9e;
-	font-family:Arial;
-	font-size:17px;
-	/* padding:7px 25px; */
-	text-decoration:none;
-	text-shadow:0px 1px 0px #e1e2ed;
+  box-shadow: 3px 4px 0px 0px #899599;
+  background: linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+  background-color: #ededed;
+  border-radius: 15px;
+  border: 1px solid #d6bcd6;
+  display: inline-block;
+  cursor: pointer;
+  color: #3a8a9e;
+  font-family: Arial;
+  font-size: 17px;
+  /* padding:7px 25px; */
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #e1e2ed;
   position: absolute;
-  top : 0px;
+  top: 0px;
 }
 
-
-
-#top{
-  margin-left: 0px!important;
-    background-color: white;
-    height: 35px;
+#top {
+  margin-left: 0px !important;
+  background-color: white;
+  height: 35px;
 }
 
-@media (min-width: 768px) and (max-width: 1199.98px){}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+}
 
 @media print {
-  body{
+  body {
     margin-left: 10px;
     margin-right: 10px;
   }
-  #test1{
+  #test1 {
     margin: 0px;
   }
 
-   
-  #impression{
-    display: none;
-    
-  }
-  #invisible{
+  #impression {
     display: none;
   }
-  #top{
+  #invisible {
     display: none;
   }
- 
+  #top {
+    display: none;
+  }
 }
